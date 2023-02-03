@@ -43,6 +43,11 @@ body [xml|lang]{
 	display: none;
 }
 
+intro-note{
+	margin: 10pt;
+	font-size: small;
+}
+
 p span.i1{
 	padding-left: 2em;
 	text-indent: -1em;
